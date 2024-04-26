@@ -1,0 +1,15 @@
+-> [eliza] Hi, I'm a psychotherapist. What is your name?
+
+=> [user] My name is Bridget.
+
+-> [eliza] Hi Bridget. How can I help you today?
+
+=> [Bridget] I want to rule the world.
+
+-> [eliza] Bridget, why do you want to rule the world? [transform statement into ?]
+
+=> [Bridget] I don't know, I think I crave power.
+
+-> [eliza] Why don't you tell me more about your cravings. [word spot "crave" and respond.]
+
+=> [Bridget] ...
